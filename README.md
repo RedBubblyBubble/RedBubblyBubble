@@ -8,7 +8,7 @@ Je suis ingénieur bâtiment, basé à Paris. Au quotidien, je suis les chantier
 
 **[Studio Modelis](https://github.com/RedBubblyBubble/studiomodelis-fr)** : le site que j'ai construit pour Studio Modelis, du scan 3D Matterport pour les architectes, les bureaux d'études et les enseignes. Next.js, TypeScript et Tailwind.
 
-**Warcha** (repo privé) : un outil pour les entreprises du second œuvre. Je travaille en ce moment sur un module qui génère les PV de mise en œuvre, un document que j'ai trop souvent dû rédiger à la main sur mes chantiers.
+**Warcha** (repo privé) : une boîte à outils en ligne pour les artisans. PDF, devis, logos, cartes de visite, et des calculateurs de chantier (peinture, carrelage, éclairage) avec un plan de la pièce en 2D et en 3D. Tout tourne dans le navigateur, sans compte ni serveur.
 
 **[landing-page](https://github.com/RedBubblyBubble/landing-page)** : une landing page intégrée à partir d'une maquette Figma, surtout pour m'entraîner à coller au pixel près.
 
