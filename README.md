@@ -10,6 +10,8 @@ Je suis ingénieur bâtiment, basé à Paris. Au quotidien, je suis les chantier
 
 **Warcha** (repo privé) : une boîte à outils en ligne pour les artisans. PDF, devis, logos, cartes de visite, et des calculateurs de chantier (peinture, carrelage, éclairage) avec un plan de la pièce en 2D et en 3D. Tout tourne dans le navigateur, sans compte ni serveur.
 
+**Chantier** (repo privé) : un logiciel de devis et de factures pour les artisans du BTP. On décrit le chantier en une phrase ou à la voix, le devis se prépare à partir du catalogue, puis on suit les situations, les factures et les paiements. Pensé pour être utilisé sur le téléphone, directement au chantier.
+
 **[landing-page](https://github.com/RedBubblyBubble/landing-page)** : une landing page intégrée à partir d'une maquette Figma, surtout pour m'entraîner à coller au pixel près.
 
 ### Le côté Web3
